@@ -8,10 +8,10 @@ public class Problem9 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Въведете число A: ");
+		System.out.println("Enter a number A: ");
 		int a = sc.nextInt();
 		
-		System.out.println("Въведете число B: ");
+		System.out.println("Enter a number B: ");
 		int b = sc.nextInt();
 		
 		int i=0;

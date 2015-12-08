@@ -8,21 +8,21 @@ public class Problem1 {
 		
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Въведете число A:");
+		System.out.println("Enter a number A:");
 		float a = sc.nextFloat();
 
-		System.out.println("Въведете число B:");
+		System.out.println("Enter a number B:");
 		float b = sc.nextFloat();
 
-		System.out.println("Въведете число C:");
+		System.out.println("Enter a number C:");
 		float c = sc.nextFloat();
 
 		if (a > c && b < c) {
-			System.out.println("Числото С е между А и В.");
+			System.out.println("The number С is between B and A.");
 		} else if (a < c && b > c) {
-			System.out.println("Числото С е между В и А!");
+			System.out.println("The number С is between A and B!");
 		} else {
-			System.out.println("Числото С не е в интервала между А и В!");
+			System.out.println("The number С isn't between А and В!");
 		}
 
 	}

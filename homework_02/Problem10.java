@@ -8,7 +8,7 @@ public class Problem10 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("Въведете число: ");
+		System.out.print("Enter a number: ");
 		int a = sc.nextInt();
 	
 		int c = 0;

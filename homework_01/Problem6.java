@@ -8,13 +8,13 @@ public class Problem6 {
 
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("Въведете число a1:");
+		System.out.print("Enter a number a1:");
 		int a1 = sc.nextInt();
 
-		System.out.print("Въведете число a2:");
+		System.out.print("Enter a number a2:");
 		int a2 = sc.nextInt();
 		
-		System.out.print("Въведете число a3:");
+		System.out.print("Enter a number a3:");
 		int a3 = sc.nextInt();
 		
 		int a0;

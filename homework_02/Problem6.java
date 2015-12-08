@@ -31,7 +31,7 @@ public class Problem6 {
 			
 		}
 		
-		System.out.println("Сумата на числата от 1 до " + n + " e " + sum + ".");
+		System.out.println("The sum of the numbers from 1 to " + n + " is " + sum + ".");
 		
 	}
 
